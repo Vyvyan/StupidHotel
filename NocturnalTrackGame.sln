@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NocturnalTrackGame.Plugins", "NocturnalTrackGame.Plugins.csproj", "{FC956F4A-4570-E8F9-C729-66538BCB5E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NocturnalTrackGame", "NocturnalTrackGame.csproj", "{8715D3BD-4B2F-E971-88C3-BA51233791C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NocturnalTrackGame.Editor.Plugins", "NocturnalTrackGame.Editor.Plugins.csproj", "{39C2B10C-12AB-6D79-81C6-8F4AF4182C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NocturnalTrackGame.Editor", "NocturnalTrackGame.Editor.csproj", "{E0BA101D-6ED2-6534-2283-3D053F41B6C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC956F4A-4570-E8F9-C729-66538BCB5E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC956F4A-4570-E8F9-C729-66538BCB5E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC956F4A-4570-E8F9-C729-66538BCB5E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC956F4A-4570-E8F9-C729-66538BCB5E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8715D3BD-4B2F-E971-88C3-BA51233791C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8715D3BD-4B2F-E971-88C3-BA51233791C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8715D3BD-4B2F-E971-88C3-BA51233791C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8715D3BD-4B2F-E971-88C3-BA51233791C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C2B10C-12AB-6D79-81C6-8F4AF4182C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C2B10C-12AB-6D79-81C6-8F4AF4182C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C2B10C-12AB-6D79-81C6-8F4AF4182C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C2B10C-12AB-6D79-81C6-8F4AF4182C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0BA101D-6ED2-6534-2283-3D053F41B6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BA101D-6ED2-6534-2283-3D053F41B6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BA101D-6ED2-6534-2283-3D053F41B6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BA101D-6ED2-6534-2283-3D053F41B6C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
